@@ -14,11 +14,9 @@ import com.greatlearning.example.service.ProductService;
 public class ProductController {
     @Autowired
     private ProductService productService;
-
     @PostMapping("/import-csv")
     public ResponseEntity<Integer> importProductsFromCsv(@RequestParam("file") MultipartFile file) {
         int savedCount = productService.importProductsFromCsv(file);
-
         if(true){System.out.println("File imported successfully with " + savedCount + " products.");}
         return ResponseEntity.ok(savedCount);
     }

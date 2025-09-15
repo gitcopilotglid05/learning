@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/.husky/pre-commit">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/.husky/pre-commit" />
+              <option name="updatedContent" value="#!/bin/sh&#10;. &quot;$(dirname &quot;$0&quot;)/_/husky.sh&quot;&#10;echo &quot;Pre-commit hook triggered by Husky!&quot;&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/package.json">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/package.json" />
+              <option name="originalContent" value="{&#10;  &quot;name&quot;: &quot;learning&quot;,&#10;  &quot;version&quot;: &quot;1.0.0&quot;,&#10;  &quot;description&quot;: &quot;Test&quot;,&#10;  &quot;main&quot;: &quot;index.js&quot;,&#10;  &quot;directories&quot;: {&#10;    &quot;doc&quot;: &quot;doc&quot;&#10;  },&#10;  &quot;scripts&quot;: {&#10;    &quot;test&quot;: &quot;echo \&quot;Error: no test specified\&quot; &amp;&amp; exit 1&quot;,&#10;    &quot;prepare&quot;: &quot;husky install&quot;&#10;  },&#10;  &quot;repository&quot;: {&#10;    &quot;type&quot;: &quot;git&quot;,&#10;    &quot;url&quot;: &quot;git+https://github.com/gitcopilotglid05/learning.git&quot;&#10;  },&#10;  &quot;keywords&quot;: [],&#10;  &quot;author&quot;: &quot;&quot;,&#10;  &quot;license&quot;: &quot;ISC&quot;,&#10;  &quot;type&quot;: &quot;commonjs&quot;,&#10;  &quot;bugs&quot;: {&#10;    &quot;url&quot;: &quot;https://github.com/gitcopilotglid05/learning/issues&quot;&#10;  },&#10;  &quot;homepage&quot;: &quot;https://github.com/gitcopilotglid05/learning#readme&quot;,&#10;  &quot;devDependencies&quot;: {&#10;    &quot;husky&quot;: &quot;^9.1.7&quot;&#10;  }&#10;}&#10;" />
+              <option name="updatedContent" value="{&#10;  &quot;name&quot;: &quot;learning&quot;,&#10;  &quot;version&quot;: &quot;1.0.0&quot;,&#10;  &quot;description&quot;: &quot;Test&quot;,&#10;  &quot;main&quot;: &quot;index.js&quot;,&#10;  &quot;directories&quot;: {&#10;    &quot;doc&quot;: &quot;doc&quot;&#10;  },&#10;  &quot;scripts&quot;: {&#10;    &quot;test&quot;: &quot;echo \&quot;Error: no test specified\&quot; &amp;&amp; exit 1&quot;,&#10;    &quot;prepare&quot;: &quot;husky install&quot;&#10;  },&#10;  &quot;repository&quot;: {&#10;    &quot;type&quot;: &quot;git&quot;,&#10;    &quot;url&quot;: &quot;git+https://github.com/gitcopilotglid05/learning.git&quot;&#10;  },&#10;  &quot;keywords&quot;: [],&#10;  &quot;author&quot;: &quot;&quot;,&#10;  &quot;license&quot;: &quot;ISC&quot;,&#10;  &quot;type&quot;: &quot;commonjs&quot;,&#10;  &quot;bugs&quot;: {&#10;    &quot;url&quot;: &quot;https://github.com/gitcopilotglid05/learning/issues&quot;&#10;  },&#10;  &quot;homepage&quot;: &quot;https://github.com/gitcopilotglid05/learning#readme&quot;,&#10;  &quot;devDependencies&quot;: {&#10;    &quot;husky&quot;: &quot;^9.1.7&quot;,&#10;    &quot;lint-staged&quot;: &quot;^15.2.0&quot;&#10;  }&#10;}" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
