@@ -1,0 +1,5 @@
+name,price,sku,createdAt
+Product1,10.5,SKU1,2023-09-15T10:00:00
+Product2,20.0,SKU2,2023-09-15T11:00:00
+Product3,15.75,SKU3,2023-09-15T12:00:00
+
